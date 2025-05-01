@@ -18,7 +18,7 @@
 ## 🛠️ Requirements
 
 - Python 3.8+
-- Chrome + chromedriver
+- Chrome (or chromium) + chromedriver
 - pip packages:
   ```bash
   pip install pandas scikit-learn joblib selenium

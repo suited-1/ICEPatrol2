@@ -6,7 +6,7 @@
 
 ## 📌 Features
 
-- 🔍 **Google Dorking Automation** — Finds ICE-related LinkedIn profiles
+- 🔍 **Google (acutally uses bing) Dorking Automation** — Finds ICE-related LinkedIn profiles
 - 🧠 **Keyword Flagging** — Highlights articles/posts with misconduct terms (e.g. "lawsuit", "misconduct", "arrested")
 - 📸 **Evidence Archiving** — Saves full articles, screenshots, and profile photos
 - 📊 **Role Classification** — Labels scraped individuals as `Agent`, `Lawyer`, or `Other`

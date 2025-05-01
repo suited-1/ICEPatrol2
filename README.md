@@ -22,3 +22,11 @@
 - pip packages:
   ```bash
   pip install selenium beautifulsoup4 requests
+
+---
+
+## Data
+- Info is able to be accessed via this repo
+- You do not need to run any of the code to see the data
+- You can modify or run the code youself if you wish. 
+- This isn't a huge project and I'm just one guy. Theres probably mistakes and false positives. BE CAREFUL! 

@@ -31,3 +31,4 @@
 - You do not need to run any of the code to see the data
 - You can modify or run the code youself if you wish. 
 - This isn't a huge project and I'm just one guy. Theres probably mistakes and false positives. BE CAREFUL! 
+- The file example_profiles.csv is all fake data generated to use for training the neural network that is used to access risk.

@@ -24,7 +24,6 @@
   ```bash
   pip install pandas scikit-learn joblib selenium
 
-
 ---
 
 ## Data

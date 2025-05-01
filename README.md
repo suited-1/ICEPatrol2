@@ -21,7 +21,8 @@
 - Chrome + chromedriver
 - pip packages:
   ```bash
-  pip install selenium beautifulsoup4 requests
+  pip install pandas scikit-learn joblib selenium
+
 
 ---
 
